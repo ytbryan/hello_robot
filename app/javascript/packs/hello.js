@@ -3,7 +3,7 @@
 // Generate a component part by running command `rails generate vue something`
 
 import Vue from 'vue'
-import App from '@/bot.vue'
+import App from '@/hello.vue'
 import locale from 'locales/locale'
 
 document.addEventListener('DOMContentLoaded', () => {
